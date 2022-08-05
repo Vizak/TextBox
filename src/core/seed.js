@@ -1,3 +1,6 @@
-const seed = {};
+const seed = {
+	text: '',
+	input: ' ',
+};
 
 export default seed;
